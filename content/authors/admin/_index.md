@@ -16,12 +16,12 @@ role: Business Intelligence & Analytics Practitioner
 organizations: []
 
 # Short bio (displayed in user profile at end of posts)
-bio: My interests include xxx.
+bio: []
 
 interests:
-- Power Query & Power Pivot
-- Python
-- VBA
+- Analytical Modeling
+- Data Modeling
+- Process Automation
 
 education:
   courses:
@@ -66,5 +66,6 @@ user_groups:
 - Visitors
 ---
 
-I am a senior accountant/analyst at DuPont using business intelligence & data analytics to drive business value. I live in Philadelphia and like to write about the ever evolving world of data analysis I find myself in.  
+I am just a guy trying to make some sense of the world through business intelligence and data analytics. Working toward one day using my skills to enable organizations to make stronger, better, more just impacts on humanity.
 
+Marathoner. Triathlete. Husband. Dad to a sprited toddler.
