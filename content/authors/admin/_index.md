@@ -19,7 +19,7 @@ organizations: []
 bio: []
 
 interests:
-- Analytical Modeling
+- Analytics Modeling
 - Data Modeling
 - Process Automation
 
