@@ -12,7 +12,7 @@ menu:
   vba:
     adodb:
       name:
-      weight: 
+      weight: 1
 
 ---
 ## ADODB Connection
