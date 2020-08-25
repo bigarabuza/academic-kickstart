@@ -215,7 +215,7 @@ plugins_js  = []
 
   # Configuration of Disqus.
   [comments.disqus]
-    shortname = "https-www-bigarabuza-com"  # Paste the shortname from your Disqus dashboard.
+    shortname = "https-www-bigarabuza-com-1"  # Paste the shortname from your Disqus dashboard.
     show_count = true  # Show comment count in page header? (true/false)
 
   # Configuration of Commento.
